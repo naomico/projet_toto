@@ -1,0 +1,6 @@
+# Composer
+/vendor/
+composer.lock
+
+/inc/config.php
+/public/img/files/
